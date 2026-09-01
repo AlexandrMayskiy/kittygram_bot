@@ -1,0 +1,5 @@
+repo_owner: AlexandrMayskiy
+kittygram_domain: http://localhost:9000/admin/login/?next=/admin/
+taski_domain: https://apulaz.zapto.org/admin/
+dockerhub_username: gubyam
+vm_name: r-backend-vm-1535740638
