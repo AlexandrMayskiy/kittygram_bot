@@ -143,6 +143,3 @@ jobs:
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |
             Деплой Kittygram прошел чики-пики!
-            Автор коммита: ${{ github.actor }}
-            Сообщение: ${{ github.event.commits[0].message }}
-            Ссылка на коммит: https://github.com{{ github.sha }}
